@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there my name is Josh Graeber.
+🔭 I’m currently working on a run tracker app using kotlin
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=graeberj&label=Profile%20views&color=0e75b6&style=flat" alt="Josh" /> 
+  <img src="https://img.shields.io/badge/Languages-Python | Typescript | Kotlin | Node | React | Django | Android  -green.svg" alt="Josh's languages" />
+</p>
 
 <!--
-**Graeberj/Graeberj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
