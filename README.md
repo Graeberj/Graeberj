@@ -1,5 +1,25 @@
-### Hi there my name is Josh Graeber.
-🔭 I’m currently working on a run tracker app using kotlin
+### Hi there 👋, my name is Josh
+#### I am a Software Engineer
+
+
+
+
+
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/graeberj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joshuagraeber/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=graeberj)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graeberj)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=graeberj)  
+
+
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=graeberj&label=Profile%20views&color=0e75b6&style=flat" alt="Josh" /> 
